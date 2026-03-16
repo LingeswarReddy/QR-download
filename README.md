@@ -193,8 +193,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Supriya**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+**LINGESWAR**
+- GitHub: [@YourUsername](https://github.com/LingeswarReddy)
 - Live App: [qr-ecosystem.base44.app](https://qr-ecosystem.base44.app)
 
 ---
